@@ -7,10 +7,20 @@ public class testClass {
 	System.out.println("ajeeth");
 	}
 
-	public static void main(String[] args) {
-		new testClass();
-
-		System.out.println("is ready to use");
+		
+		public int square(int a) {
+			
+			return a*a;
+			
+		
 	}
+
+			
+			public int square2(int a) {
+				
+				return a*a;
+				
+			
+		}
 
 }
